@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Tech Innovation Summit 2024",
+      "description": "Hadi Events is organizing a tech innovation summit featuring the latest in AI and blockchain.",
+      "date": "15-12-2024",
+      "location": "Alhamra Center Lahore",
+      "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87",
+      "type": "current"
+    },
+    {
+      "id": "2",
+      "title": "Qawali Night",
+      "description": "Our famous Qawali Night Sessions in coming your way soon",
+      "date": "29-12-2024",
+      "location": "Fotress, Lahore",
+      "imageUrl": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4",
+      "type": "featured"
+    },
+    {
+      "id": "3",
+      "title": "Startup Pitch Day",
+      "description": "An exciting opportunity for startups to pitch their ideas to leading investors and industry experts.",
+      "date": "18-12-2024",
+      "location": "Nishtar Hall, Peshawar",
+      "imageUrl": "https://images.unsplash.com/photo-1562564055-71e051d33c19",
+      "type": "current"
+    },
+    {
+      "id": "4",
+      "title": "Music Festival 2024",
+      "description": "Join us for a night of music, food, and fun with famous bands from around the country.",
+      "date": "22-12-2024",
+      "location": "Open Air Theater, Islamabad",
+      "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3",
+      "type": "current"
+    },
+    {
+      "id": "5",
+      "title": "Art Expo",
+      "description": "Experience the creativity of renowned artists showcasing their work in this exclusive exhibition.",
+      "date": "30-12-2024",
+      "location": "Expo Center, Karachi",
+      "imageUrl": "/images/image1.jpg",
+      "type": "featured"
+    },
+    {
+      "id": "6",
+      "title": "Luxury Fashion Gala",
+      "description": "A glamorous evening celebrating the finest in high fashion with top designers and models.",
+      "date": "02-01-2025",
+      "location": "Pearl Continental Hotel, Lahore",
+      "imageUrl": "/images/image2.jpg",
+      "type": "featured"
+    }
+  ]
+}
